@@ -1,7 +1,6 @@
 package com.learning.securitywithkeycloak.adviser;
 
 import com.learning.securitywithkeycloak.exception.*;
-import com.shaliya.securitywithkeycloak.exception.*;
 import com.learning.securitywithkeycloak.util.StandardResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
